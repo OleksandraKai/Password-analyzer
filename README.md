@@ -1,3 +1,4 @@
+
 def password_strength(password):
     strength = {"length": False, "uppercase": False, "lowercase": False, "numbers": False, "special": False}
     special = '!@#$%^&*()-_=+[]{}|;:,.<>?/~`'
